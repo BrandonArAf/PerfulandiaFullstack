@@ -1,0 +1,13 @@
+com\perfulandia\perfulandia_pedido\config\RabbitMQConfig.class
+com\perfulandia\perfulandia_pedido\service\PedidoHateoasService.class
+com\perfulandia\perfulandia_pedido\config\RestTemplateConfig.class
+com\perfulandia\perfulandia_pedido\model\PedidoModel.class
+com\perfulandia\perfulandia_pedido\model\Producto.class
+com\perfulandia\perfulandia_pedido\service\PedidoService.class
+com\perfulandia\perfulandia_pedido\controller\PedidoController.class
+com\perfulandia\perfulandia_pedido\repository\PedidoRepository.class
+com\perfulandia\perfulandia_pedido\config\OpenApiConfig.class
+com\perfulandia\perfulandia_pedido\model\PagoRequest.class
+com\perfulandia\perfulandia_pedido\model\Pedido.class
+com\perfulandia\perfulandia_pedido\PerfulandiaPedidoApplication.class
+com\perfulandia\perfulandia_pedido\model\InventarioResponse.class

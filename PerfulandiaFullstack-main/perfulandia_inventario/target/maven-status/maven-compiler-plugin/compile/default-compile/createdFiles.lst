@@ -1,0 +1,10 @@
+com\perfulandia\inventario\repository\InventarioRepository.class
+com\perfulandia\inventario\model\Inventario.class
+com\perfulandia\inventario\model\InventarioModel.class
+com\perfulandia\inventario\service\InventarioService.class
+com\perfulandia\inventario\config\OpenApiConfig.class
+com\perfulandia\inventario\controller\InventarioController.class
+com\perfulandia\inventario\service\InventarioHateoasService.class
+com\perfulandia\inventario\config\RabbitMQConfig.class
+com\perfulandia\inventario\InventarioApplication.class
+com\perfulandia\inventario\service\InventarioListener.class

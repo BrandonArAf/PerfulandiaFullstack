@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.perfulandia.perfulandia_pedido.controller.PedidoControllerTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.245 s -- in com.perfulandia.perfulandia_pedido.controller.PedidoControllerTest
